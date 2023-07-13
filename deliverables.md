@@ -21,7 +21,7 @@ similar service and provide access only to the challenge organizers.
 
 Lastly, teams should **create a poster and a 10-minute powerpoint presentation
 to be in-person**
-for the live finals that take place on November 9-12. Teams should bring their printed poster to the finals.
+during the live finals that take place on November 8-11. Teams should bring their printed poster to the finals.
 
 The report, powerpoint and poster presentations should include a description of your
 setup and tools that you used, a brief overview of the challenges and a detailed 
@@ -31,4 +31,4 @@ The report is expected to provide details an all challenges. The powerpoint and 
 can focus on a subset of challenges that best show your ingeinuity.
 
 A description of grading criteria can be found 
-[here]().
+[here](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Challenge_Description.md#competition-phase-evaluation-and-grading-policies).
