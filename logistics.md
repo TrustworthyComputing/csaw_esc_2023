@@ -1,20 +1,20 @@
 Competition Deadlines
 ---------------------
 
--   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: 
--   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  
--   Announcement of teams qualified to the final phase: 
--   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): 
--   Competition Dates (New York): 
+-   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: September 10th
+-   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  September 17th
+-   Announcement of teams qualified to the final phase: September 26th
+-   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): November 3rd
+-   Competition Dates (Global):  
 
 **(All deadlines are 11:59 pm eastern US timezone)**
 
 Equipment Requirements
 ----------------------
 
-For the finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions using a virtual Raspberry Pi environment. Teams are responsible for any additional equipment their techniques require.
+For the finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions using an Arduino Uno Board. Teams are responsible for any additional equipment their techniques require.
 
-The embedded OS and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
+The relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
 
 
 Code of Conduct
