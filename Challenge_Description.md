@@ -7,7 +7,7 @@ This year's challenge will focus on **side channel attacks** (SCA) on cyber-phys
 
 The ESC23 competition is divided into three phases:
 
-1. A preliminary **qualification phase**, where teams must compile and submit a short written report. The report should encompass what CPSs are, the side channels that one can exploit in relation to CPSs, and mitigations that can be put in place to prevent side channel information leakage. This includes examples of attacks, how one could perform the attacks, and mitigations for the described attacks.
+1. A preliminary **qualification phase**, where teams must compile and submit a short written report. The report should discuss side channels applicable to CPS, different attack approaches, and different mitigations that can be put in place to prevent side channel leakage. This includes examples of attacks, how one could perform the attacks, and mitigations for the described attacks.
 
 2. A **competition phase**, where qualified teams are provided an Arduino Uno based CPS that exposes several side channels. Participants will investigate each variation of the system and attempt to exploit any side channels found. This involves successfully finding and exploiting side channels to gain information about the given CPS. The methods used should be repeatable and consistent.
  
