@@ -3,6 +3,11 @@ CSAW 2023 Embedded Security Challenge (ESC)
 
 ## Quick Links
 
+* [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/deliverables.md)
+* [Deadlines/Logistics **(Updated)**](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/logistics.md#competition-deadlines)
+* [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/challenge_description.md#esc-2021-challenge-description)
+* [csaw.io/esc](https://www.csaw.io/esc)
+
 ## Overview
 
 The Embedded Security Challenge (ESC) returns in 2023 for the 16<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
@@ -14,7 +19,7 @@ ESC 2023 will be held in four regions: US-Canada, Europe, Middle East & North Af
 -   **CSAW MENA**: NYU Abu Dhabi, Abu Dhabi, UAE.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Lars Folkerts, Charles Gouert, and Dimitris Mouris, who are also the US-Canada region challenge leads.
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Charles Gouert, and Dimitris Mouris, who are also the US-Canada region challenge leads, and Brandon Bauer.
 In Europe, the competition is organized by Professor Vincent Beroulle (Univ. Grenoble Alpes), while in the MENA region the competition is coordinated by Professor Michail Maniatakos (NYUAD). 
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Mridul Chamoli  as the regional challenge lead.
 
