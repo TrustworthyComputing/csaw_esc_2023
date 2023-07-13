@@ -1,11 +1,11 @@
 Competition Deadlines
 ---------------------
 
--   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: ~~September 21st 2022~~ **September 30th 2022**
--   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  ~~**September 21st 2022**~~ **September 30th 2022**
--   Announcement of teams qualified to the final phase: **October 5th 2022**
--   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): ~~**Friday November 4th 2022**~~ **Monday November 7th 2022**
--   Competition Dates (New York): **November 9th-12th 2022**
+-   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: 
+-   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  
+-   Announcement of teams qualified to the final phase: 
+-   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): 
+-   Competition Dates (New York): 
 
 **(All deadlines are 11:59 pm eastern US timezone)**
 
@@ -32,5 +32,5 @@ Teams can contact their regional organizers at the following email address: `csa
 Responsible Disclosure
 ----------------------
 
-In the event that ESC22 contestants find critical, previously undisclosed vulnerabilities during the competition's final phase, we ask that they contact CSAW ESC22 organizers so we can assist and jointly coordinate responsible disclosure procedures, if any such procedures are deemed necessary.
+In the event that ESC23 contestants find critical, previously undisclosed vulnerabilities during the competition's final phase, we ask that they contact CSAW ESC23 organizers so we can assist and jointly coordinate responsible disclosure procedures, if any such procedures are deemed necessary.
 
