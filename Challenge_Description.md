@@ -21,8 +21,6 @@ For the qualification phase, teams should submit a **short report** that outline
 
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of reported techniques, as well as the completeness and quality of the compiled report.
 
-### Final Phase
-
 **Details on the final-phase challenges will be provided after the qualification phase ends. The qualification report should be a brief survey of existing attacks and/or mitigations on SCAs on CPS.**
 
 ## Final Phase Evaluation and Grading Policies
