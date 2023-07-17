@@ -19,9 +19,11 @@ See below for more details on the requirements of each phase.
 
 For the qualification phase, teams should submit a **short report** that outlines approaches, techniques, and mitigations (not only one approach/technique) to attack CPSs with SCAs. The best approaches will include a discussion of existing techniques, a clear outline of attack methodologies, and a discussion of how the methodologies can be mitigated.
 
-**Details on the final-phase challenges will be provided after the qualification phase ends. The qualification report should be a brief survey of existing attacks and/or mitigations on SCAs on CPS.**
-
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of reported techniques, as well as the completeness and quality of the compiled report.
+
+### Final Phase
+
+**Details on the final-phase challenges will be provided after the qualification phase ends. The qualification report should be a brief survey of existing attacks and/or mitigations on SCAs on CPS.**
 
 ## Final Phase Evaluation and Grading Policies
 
