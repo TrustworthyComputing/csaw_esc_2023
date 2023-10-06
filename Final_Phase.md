@@ -15,7 +15,7 @@ accumulated in the final score of each team. Challenges will be given a
 different number of points based upon their difficulties.
 
 
-## Deliverables
+## Submission Details
 For information about the deliverables of the final phase you can visit [this page](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/deliverables.md).
 
 ## Verifying Solutions
