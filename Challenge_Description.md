@@ -21,19 +21,20 @@ For the qualification phase, teams should submit a **short report** that outline
 
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of reported techniques, as well as the completeness and quality of the compiled report.
 
-**Details on the final-phase challenges will be provided after the qualification phase ends. The qualification report should be a brief survey of existing attacks and/or mitigations on SCAs on CPS.**
-
 ## Final Phase Evaluation and Grading Policies
 
 The final phase will be graded as follows:
 - 50% of the final score will be **correctness**. The points awarded in this section are based on successfully finding, exploiting, and  mitigating the provided SCA challenges and depend on the difficulty of each challenge. The awarded points will be determined systematically by the global organizers and the expert judges. 
 - 20% of the score will be **performance** and **efficiency**. Performance will be evaluated by the panel of expert judges and will encompass the techniques that the participants utilize to address the challenges. The metrics include, but are not limited to:
-    - Effectiveness of proposed SCA and mitigations
+    - Effectiveness of proposed SCA
     - Repeatability and creativity
 - 30% of the score will be the **quality** of the final deliverables (report, pre-recorded video, and judges presentation or poster). The final deliverables will be graded by the judges panel based on organization, clearness of presentation, and detail of explanations.
 
- **Note: The use of software tools requiring a paid license or a demo license of a non-free tool is not allowed.**
+ **Notes: 
+ The use of software tools requiring a paid license or a demo license of a non-free tool is not allowed.
+ This years competition focus on side channel attacks on the cyber-physical system. Therefore solutions that involve reverse engineering of the flag, ROP programming or modification of hex files will not be accepted.**
 
-You can refer to the [deliverables page](deliverables.md) for more details on the qualification and final phase deliverables.
 
-To find more information regarding how to register and participate click [here](logistics.md).
+You can refer to the [deliverables page](deliverables.md) for more details on the qualification and final phase deliverables, and the [Final Phase page](Final_Phase.md) for details about how to get started with this year's challenges.  
+
+To find more information regarding how to register and participate, click [here](logistics.md).
