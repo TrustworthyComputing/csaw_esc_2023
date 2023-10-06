@@ -4,7 +4,8 @@ Welcome to the finals phase for CSAW ESC'23! This page will provide additional d
 
  - The provided ESC hardware kit that includes: Arduino Uno board, ESC shield with I2C breakout, Keyboard, Relay module, Vibration motor module, Microphone module, and Passive buzzer;
  - A computer with a standard USB port;
- - [avrdude](https://www.arduino.cc/en/software) software running on the computer.
+ - [avrdude](https://www.arduino.cc/en/software) software running on the computer;
+ - A serial port interface (such as minicom), with 115200 baud rate to communicate with the board at the corresponding port (e.g., /dev/ttyUSB0).
 
 A short video with assembly instructions for the ESC hardware is available [here](https://tinyurl.com/ESC2023-assembly).
 
