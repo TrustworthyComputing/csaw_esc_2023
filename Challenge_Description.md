@@ -28,6 +28,7 @@ The final phase will be graded as follows:
 - 20% of the score will be **performance** and **efficiency**. Performance will be evaluated by the panel of expert judges and will encompass the techniques that the participants utilize to address the challenges. The metrics include, but are not limited to:
     - Effectiveness of proposed SCA
     - Repeatability and creativity
+    - Automation of attacks
 - 30% of the score will be the **quality** of the final deliverables (report, pre-recorded video, and judges presentation or poster). The final deliverables will be graded by the judges panel based on organization, clearness of presentation, and detail of explanations.
 
  **Notes: 
