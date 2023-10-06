@@ -6,7 +6,7 @@ Welcome to the finals phase for CSAW ESC'23! This page will provide additional d
  - A computer with a standard USB port;
  - [avrdude](https://www.arduino.cc/en/software) software running on the computer.
 
-A short video with assembly instructions for the ESC hardware is available [here](https://tinyurl.com/ESC2023-assembly-instructions).
+A short video with assembly instructions for the ESC hardware is available [here](https://tinyurl.com/ESC2023-assembly).
 
 ## Challenge Structure Overview
 
