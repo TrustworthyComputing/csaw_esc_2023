@@ -1,9 +1,9 @@
 
 ## Week 2 Challenges
 
-Welcome to Week 2 of the ESC2023 challenges! As  prepare for an even more thrilling and intellectually stimulating journey. This week, you will dive deeper into the realm of embedded cyber-physical systems cybersecurity as you continue to hone your hacking skills, navigate through intricate systems to unearth vulnerabilities, and claim those highly sought-after flags. 
+Welcome to Week 2 of the ESC2023 challenges! Prepare for an even more thrilling and intellectually stimulating journey. This week, you will dive deeper into the realm of embedded cyber-physical systems cybersecurity as you continue to hone your hacking skills, navigate through intricate systems to unearth vulnerabilities, and claim those highly sought-after flags. 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week2/spitfire.png" alt="Spitfire" align="left" width="250" height="175" title="Spitfire">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week2/spitfire.png" alt="Spitfire" align="left" width="250" height="200" title="Spitfire">
 
 ### Operation SPItFire
 
