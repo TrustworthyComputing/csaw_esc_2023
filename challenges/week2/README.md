@@ -9,6 +9,11 @@ Welcome to Week 2 of the ESC2023 challenges! Prepare for an even more thrilling 
 
 Amid the digital battleground, you, an accomplished spy, are assigned the mission of deciphering an intricate maze of wire traffic acquired from the mysterious hacker collective, SPItFire. To assist your efforts, your remote team has gained access to a device linked to one of SPItFire's surveillance camera, allowing you to clandestinely exchange messages. Your objective: find out how to communicate with the security camera, and acquire to uncover the coveted password flag that can be used to infiltrate their security footage.
 
+<img
+src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week2/czNxdTNuYzM.png"
+alt="czNxdTNuYzM" align="left" width="250" height="200" title="czNxdTNuYzM">
+
 ### czNxdTNuYzM 
 
-Coming soon 
+A cryptic dance of numbers unfolds before the eyes. Can you harmonize with the
+rapid rhythms of this challenge? In this realm of numbers, a symphony can conquer even the swiftest of mysteries.
