@@ -5,14 +5,14 @@ Welcome to Week 3 of the ESC2023 challenges! It's hard to believe we're already 
 
 See you at the CSAW live-finals.
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/SockPuppet.jpeg" alt="czNxdTNuYzM" align="left" width="250" height="200" title="czNxdTNuYzM">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/SockPuppet.jpeg" alt="czNxdTNuYzM" align="left" width="250" height="290" title="czNxdTNuYzM">
 
 ### Sock and Roll
 
 In the heart of the whimsical and colorful Happy Socks factory, you find yourselves caught in a captivating and slightly bizarre world. This factory is a maze of vibrant rooms filled with the magic of sock-making machines, piles of socks adorned in all shades and patterns, and, of course, the joyful, dancing sock mascots that are the emblem of this fantastical place. However, what was initially a delightful visit has turned into an unexpected challenge. You have been mysteriously locked inside one of the factory's rooms, with no apparent way out. The laughter and cheerfulness of the factory have given way to a sense of urgency as you realize they need to escape. Luckily, you find the Happy Tap Dancing Socks Message Machine 2000, which seems to be transmitting some strange message. The only way to exit this colorful world and return to reality is to send an SOS signal using this cutting-edge messaging technology.
 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/Vendy.jpeg" alt="Vendy" align="left" width="250" height="200" title="Vendy">
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/Vendy.jpeg" alt="Vendy" align="left" width="250" height="300" title="Vendy">
 
 ### Vender Bender
 
