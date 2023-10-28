@@ -2,7 +2,7 @@ CSAW 2023 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
 
-* [!!Second Challenge Set Released](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/)
+* [!!Third and Final Challenge Set Released](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/)
 * [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Final_Phase.md)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/deliverables.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/logistics.md#competition-deadlines)
