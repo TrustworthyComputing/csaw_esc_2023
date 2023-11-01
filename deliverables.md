@@ -23,12 +23,7 @@ Lastly, teams should **create a 36x24in poster and a 10-minute powerpoint presen
 to be in-person**
 during the live finals that take place on November 8-11. Teams should bring their printed poster to the finals.
 
-The report, powerpoint and poster presentations should include a description of your
-setup and tools that you used, a brief overview of the challenges and a detailed 
-account of how you solved the challenges. Where relevant, please provide the 
-number of queries and neural network accuracy for your attacks and mitigations. 
-The report is expected to provide details an all challenges. The powerpoint and poster 
-can focus on a subset of challenges that best show your ingeinuity.
+The report, powerpoint and poster presentations should include a description of your setup and tools that you used, a brief overview of the challenges and a detailed account of how you solved the challenges. The report is expected to provide details an all challenges, including the challenge flags and sample inputs used to get the flag. The powerpoint and poster can focus on a subset of challenges that best show your ingeinuity. All materials must be in English. 
 
 A description of grading criteria can be found 
 [here](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Challenge_Description.md#competition-phase-evaluation-and-grading-policies).
