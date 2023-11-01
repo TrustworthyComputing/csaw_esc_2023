@@ -40,7 +40,7 @@ The following teams have qualified to the final round (in random order):
 
 ## Europe:
 
-- Hackcess **IUT Roanne**: Boye Mouhamed, Aymeric Foulie, Tom Malossse, Theo Dufour
+- Hackcess **IUT Roanne**: Tom Malossse, Theo Dufour, Nail Bibimoune, Mateo Ferreira
 - BitsFromBZH **Université Bretagne Sud (UBS)**: Adam Henault, Florian Lecocq,
   Axel Gouriou (Advisor: Philippe Tanguy)
 - Towpath Inspectors UNLTD **University of Birmingham**: Matthew Bowden,
