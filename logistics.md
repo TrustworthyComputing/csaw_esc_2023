@@ -4,7 +4,7 @@ Competition Deadlines
 -   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: September 25th
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  September 30th
 -   Announcement of teams qualified to the final phase: October 3rd
--   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): November 3rd
+-   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): November 6th, 11:59pm EST
 -   Competition Dates (Global): November 8-11th
 
 **(All deadlines are 11:59 pm eastern US timezone)**
