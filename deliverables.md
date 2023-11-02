@@ -19,7 +19,7 @@ indicated in the corresponding challenge description in a zip file to HotCRP. In
 the event that the file is too large, upload a link to a private Google Drive or
 similar service and provide access only to the challenge organizers.
 
-Lastly, teams should **create a 36x24in poster and a 10-minute powerpoint presentation
+Lastly, teams should **create a 36x24in poster and a 9-minute powerpoint presentation
 to be in-person**
 during the live finals that take place on November 8-11. Teams should bring their printed poster to the finals.
 
