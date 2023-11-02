@@ -21,9 +21,9 @@ ESC 2023 will be held in four regions: US-Canada, Europe, Middle East & North Af
 -   **CSAW MENA**: NYU Abu Dhabi, Abu Dhabi, UAE.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Charles Gouert, and Dimitris Mouris, who are also the US-Canada region challenge leads, and Brandon Bauer.
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Charles Gouert and Rostin Shokri, who are also the US-Canada region challenge leads, and Brandon Bauer.
 In Europe, the competition is organized by Professor Vincent Beroulle (Univ. Grenoble Alpes), while in the MENA region the competition is coordinated by Professor Michail Maniatakos (NYUAD). 
-In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Mridul Chamoli  as the regional challenge lead.
+In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Suraj Mandal and Dipesh  as the regional challenge lead.
 
 ## Challenge Summary
 This year's ESC focuses on side channel attacks (SCA) on cyber-physical systems (CPS). Cyber-physical systems are used by hundreds of industries and in many critical infrastructure systems. If these CPSs are not properly setup they can leak information even if they are using cryptographically secure software. This year, teams will investigate a range of SCAs on an Arduino Uno based CPS running several firmware that expose various side channels. 
