@@ -29,5 +29,25 @@ __b01lers__ - Purdue University (USA) / Score: 67.1 points (3.25/6 challenges so
   * Adrian Mathew Persaud
   * Mihir Prasanna Patil
   * Santiago Arias Torres _(Faculty advisor)_
+-----------
+__Cope Studio__ - IIT Roorkee (India) / Score: 90 points (6/6 challenges solved)
+  * Pratham Kumar Shrivastava
+  * Vansh Uppal
+  * Patel Jainil Subhashkumar
+  * Darshan Kumar
+  * Manoj Misra _(Faculty advisor)_
+    
+__InfoSecIITR__ - IIT Roorkee (India) / Score: 85 points (6/6 challenges solved)
+  * Gyanendra Kumare Banjare
+  * Manas Ghandat
+  * Abhishek Kumar Singh
+  * Priyansh Rathi
+  * Rahul Thakur _(Faculty advisor)_
 
+__InfoSecIITR__ - IIT Madras (India) / Score: 82.5 points (4.5/6 challenges solved)
+  * Arun Krishna AMS
+  * Surya Prasad S
+  * Antonson J 
+  * Niranjan A Kartha
+  * Chester Rebeiro _(Faculty advisor)_
 -----------
