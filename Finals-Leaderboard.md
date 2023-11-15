@@ -56,4 +56,4 @@ __avrrop__ - IIT Madras (India) / Region Score: 78.4 points (4.25/6 challenges s
   * Chester Rebeiro _(Faculty advisor)_
 
 -----------
-
+_Note:_ Technical points/solved challenges are consistent among different regions.
