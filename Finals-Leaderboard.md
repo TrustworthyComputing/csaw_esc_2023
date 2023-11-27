@@ -72,7 +72,8 @@ __Towpath Inspectors UNLTD__ -University of Birmingham (Europe) / Region Score: 
   * Jacqueline Henes
   * Jesse Spielman
   * Martin Thompson
-  * Marius Muench _(Faculty advisor)_ 
+  * Marius Muench _(Faculty advisor)_
+     
 __Th3Os__ - University of Piraeus (Europe) / Region Score: 80.4 points (4.25/6 challenges solved, 45 points from regional judges, 35.4 technical points)
   * Konstantinos Spyridon Mokos
   * Ilias Fiotakis
