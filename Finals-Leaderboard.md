@@ -61,13 +61,8 @@ __BitsFromBZH__ - University of South Brittany (Europe) / Region Score: 95 point
   * Axel Gouriou
   * Philippe Tanguy _(Faculty advisor)_
 
-__BitsFromBZH__ - University of South Brittany (Europe) / Region Score: 95 points (6/6 challenges solved, 45 points from regional judges, 50 technical points)
-  * Adam Henault
-  * Florian Lecocq
-  * Axel Gouriou
-  * Philippe Tanguy _(Faculty advisor)_
 
-__Towpath Inspectors UNLTD__ -University of Birmingham (Europe) / Region Score: 81.7 points (5/6 challenges solved, 40 points from regional judges, 41.7 technical points)
+__Towpath Inspectors UNLTD__ - University of Birmingham (Europe) / Region Score: 81.7 points (5/6 challenges solved, 40 points from regional judges, 41.7 technical points)
   * Matthew Bowden
   * Jacqueline Henes
   * Jesse Spielman
