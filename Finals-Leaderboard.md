@@ -55,5 +55,32 @@ __avrrop__ - IIT Madras (India) / Region Score: 78.4 points (4.25/6 challenges s
   * Sai Ashwin R
   * Chester Rebeiro _(Faculty advisor)_
 
+__BitsFromBZH__ - University of South Brittany (Europe) / Region Score: 95 points (6/6 challenges solved, 45 points from regional judges, 50 technical points)
+  * Adam Henault
+  * Florian Lecocq
+  * Axel Gouriou
+  * Philippe Tanguy _(Faculty advisor)_
+
+__BitsFromBZH__ - University of South Brittany (Europe) / Region Score: 95 points (6/6 challenges solved, 45 points from regional judges, 50 technical points)
+  * Adam Henault
+  * Florian Lecocq
+  * Axel Gouriou
+  * Philippe Tanguy _(Faculty advisor)_
+
+__Towpath Inspectors UNLTD__ -University of Birmingham (Europe) / Region Score: 81.7 points (5/6 challenges solved, 40 points from regional judges, 41.7 technical points)
+  * Matthew Bowden
+  * Jacqueline Henes
+  * Jesse Spielman
+  * Martin Thompson
+  * Marius Muench _(Faculty advisor)_
+
+  * 
+__Th3Os__ - University of Piraeus (Europe) / Region Score: 80.4 points (4.25/6 challenges solved, 45 points from regional judges, 35.4 technical points)
+  * Konstantinos Spyridon Mokos
+  * Ilias Fiotakis
+  * Georgios Mamidakis
+  * Meletios Michail
+  * Athanasios Papadimitriou _(Faculty advisor)_
+
 -----------
 _Note:_ Technical points/solved challenges are consistent among different regions.
