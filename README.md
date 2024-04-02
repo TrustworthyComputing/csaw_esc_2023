@@ -61,8 +61,12 @@ For more registration information, policies, deadlines, and for information for 
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
 
-
 ---
+
+## Acknowledgments
+The development this competition was partially supported by the National Science Foundation (Award #2234974).
+
+## Partner institutions
 
 <p align="center">
     <img src="./logos/logos.png" alt="logos"/>
