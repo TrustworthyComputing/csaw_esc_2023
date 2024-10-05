@@ -5,7 +5,7 @@ This year's challenge will focus on **side channel attacks** (SCA) on cyber-phys
 
 ## Challenge structure
 
-The ESC23 competition is divided into three phases:
+The ESC23 competition is divided into two phases:
 
 1. A preliminary **qualification phase**, where teams must compile and submit a short written report. The report should discuss side channels applicable to CPS, different attack approaches, and different mitigations that can be put in place to prevent side channel leakage. This includes examples of attacks, how one could perform the attacks, and mitigations for the described attacks.
 
