@@ -2,13 +2,12 @@ CSAW 2023 Embedded Security Challenge (ESC)
 ===========================================
 ## Quick Links
 
-* [!!Third and Final Challenge Set Released](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/)
+
 * [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Final_Phase.md)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/deliverables.md)
 * [Deadlines/Logistics (Updated to 11/6)](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/Challenge_Description.md)
 * [csaw.io/esc](https://www.csaw.io/esc)
-* [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/finalists.md)
 
 ## Overview
 
@@ -22,7 +21,8 @@ ESC 2023 will be held in four regions: US-Canada, Europe, Middle East & North Af
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
 The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), the global challenge leads are Lars Folkerts, Charles Gouert and Rostin Shokri, who are also the US-Canada region challenge leads, and Brandon Bauer.
-In Europe, the competition is organized by Professor Vincent Beroulle (Univ. Grenoble Alpes), while in the MENA region the competition is coordinated by Professor Michail Maniatakos (NYUAD). 
+In Europe, the competition is organized by Professor David Hely (Grenoble INP), Amir-Pasha Mirbaha (Grenoble INP), and Ihab Alshaer (Université Grenoble Alpes).
+In the MENA region, the competition is coordinated by Professor Michail Maniatakos (NYUAD). 
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Suraj Mandal and Dipesh  as the regional challenge lead.
 
 ## Challenge Summary
@@ -59,8 +59,12 @@ For more registration information, policies, deadlines, and for information for 
 
 *It is also recommended to periodically visit this repository on GitHub, as the details may be updated*.
 
-
 ---
+
+## Acknowledgments
+The development this competition was partially supported by the National Science Foundation (Award #2234974).
+
+## Partner institutions
 
 <p align="center">
     <img src="./logos/logos.png" alt="logos"/>
